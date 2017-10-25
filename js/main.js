@@ -18,7 +18,7 @@ $.ajax({
                         case 'rain':
                         $("#backgroundImg").css('background-image', 'url("https://i.ytimg.com/vi/z_ex8dliQUA/maxresdefault.jpg")');
                         break;
-                        case 'clear sky':
+                        case 'clear':
                         $("#backgroundImg").css('background-image', 'url("http://www.midarkskypark.org/wp-content/uploads/2015/05/slide1-1920x1080.jpg")');
                         break;
                         case 'few clouds':
