@@ -27,7 +27,7 @@ $.ajax({
                         case 'scattered clouds':
                         $("#backgroundImg").css('background-image', 'url("http://lakepath.com/wp-content/uploads/2015/01/Lake-Michigan-Shining-Through-Clouds.jpg")');
                         break;
-                        case 'broken clouds':
+                        case 'clouds':
                         $("#backgroundImg").css('background-image', 'url("http://cpplunkett.photos/wp-content/uploads/2014/08/sailboat-under-clouds-lake-michigan-chicago-081414.jpg")');
                         break;
                         case 'shower rain':
