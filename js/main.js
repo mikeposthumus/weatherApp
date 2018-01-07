@@ -42,6 +42,9 @@ $.ajax({
                         case 'mist':
                         $("#backgroundImg").css('background-image', 'url("http://bossfight.co/wp-content/uploads/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-trees-forest-mist.jpg")');
                         break;
+                        case 'haze':
+                        $("#backgroundImg").css('background-image', 'url("http://cpplunkett.photos/wp-content/uploads/2014/08/sailboat-under-clouds-lake-michigan-chicago-081414.jpg")');
+                        break;
                       }
 
 
